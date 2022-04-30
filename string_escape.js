@@ -1,0 +1,13 @@
+document.writeln("<br> <br>");
+document.writeln("Menampilkan Tipe Data String Escape untuk output secara file terpisah : <br>");
+document.writeln("<textarea cols= '110' rows= '10'>");
+document.writeln("------- \" garis miring(slash)+n \" untuk enter -------");
+document.writeln("Muhammad \n Wahyu  \n Aulia \n");
+document.writeln("------- Untuk garis miring (slash) 2 buah atau 1 untuk menampilkan garis miring 1 buah dan kosong -------");
+document.writeln("\\Beranda \Halaman \\Aksi \Keluar \n");
+document.writeln("------- Untuk kutip dua dan 1 untuk menampilkan tanda kutip 2 buah dan 1 buah -------");
+document.writeln(" \"Selamat Datang di Channel Saya\" ");
+document.writeln(" \'Ini Adalah Anime Kesukaan Saya\' \n");
+document.writeln("------- Untuk garis miring (slash)+t untuk tab -------");
+document.writeln("Anda \t adalah \t orang \t yang \t kurang \t beruntung");
+document.writeln("</textarea>");
